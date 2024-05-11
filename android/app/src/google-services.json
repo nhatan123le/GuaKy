@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162802040950",
+    "project_id": "testapp-53e43",
+    "storage_bucket": "testapp-53e43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162802040950:android:2f8b30e6112b4a3c4e5f57",
+        "android_client_info": {
+          "package_name": "com.addjobs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtjg-D23n71sVfA9XDZcMCGiPDbE7mr1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
