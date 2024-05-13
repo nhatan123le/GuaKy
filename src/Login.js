@@ -41,7 +41,7 @@ export default function LoginScreen({ navigation }) {
                 keyboardShouldPersistTaps="always">
                 <Image
                     style={styles.logo}
-                    source={require('../src/Image/LOGO.jpg')}
+                    source={require('../src/Image/logo_firebase.jpg')}
                 />
                 <TextInput
                     style={styles.input}
